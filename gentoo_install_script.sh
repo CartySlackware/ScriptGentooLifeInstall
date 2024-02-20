@@ -1,16 +1,3 @@
-#Script de automatização da instalação do Gentoo. 
-#
-#   A ideia desse script é permitir as configurações logo ao início
-#deixando a compilação e configuração autônoma, evitando ter que
-#verificar passos após instalação de pacotes. 
-#   Para isso, leia os passos desse script e modifique qualquer passo que
-#ache necessário, porém as configurações visam uma boa acomodação com
-#a maior parte dos hardwares presentes, mas com enfoque maior em plataforma Intel.
-#   Logo, uma vez montado a partição ou
-#HD, extraído o stage escolhido e já dentro do chroot do sistema Gentoo, 
-#é só copiar esse script, dar permissão de execução com 
-#"chmod +x gentooinstallscript2.sh"
-#e executá-lo com "./gentooinstallscript2.sh".
 echo "pt_BR ISO-8859-1" >> /etc/locale.gen && \
 echo "pt_BR.UTF-8 UTF-8" >> /etc/locale.gen && \
 locale-gen && \
