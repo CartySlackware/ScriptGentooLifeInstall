@@ -18,3 +18,5 @@ chmod 777 ScriptGentooLifeInstall.sh
 
 bash ScriptGentooLifeInstall.sh
 
+# Pronto!!!
+### Aguarde a instalação.
