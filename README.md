@@ -12,6 +12,8 @@ git clone https://github.com/CartySlackware/ScriptGentooLifeInstall.git
 # Instalação Final
 ###  Execute os comandos abaixo, mas com cuidado!
 
+cd ScriptGentooLifeInstall
+
 chmod 777 ScriptGentooLifeInstall.sh
 
 bash ScriptGentooLifeInstall.sh
