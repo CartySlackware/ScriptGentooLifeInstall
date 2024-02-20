@@ -1,6 +1,8 @@
 # Instalação do Gentoo de forma automatizada!
 
 # Como que faz?
+### Execute os comandos abaixo, mas com cuidado!
+
 emerge --ask app-shells/bash-completion
 
 emerge --ask dev-vcs/git
