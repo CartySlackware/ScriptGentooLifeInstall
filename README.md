@@ -7,5 +7,5 @@ emerge --ask dev-vcs/git
 
 git clone https://github.com/CartySlackware/ScriptGentooLifeInstall.git
 
-# Final
+# Instalação Final
 Digite este comando: bash ScriptGentooLifeInstall.sh
