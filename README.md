@@ -2,12 +2,7 @@
 
 # Como que faz?
 ### Antes de começar atualize seu repositório.
-emerge --sync
-
-emerge-webrsync
-
-emerge --update --deep --with-bdeps=y --newuse @world
-
+emerge --sync && emerge-webrsync && emerge --update --deep --with-bdeps=y --newuse @world
 ### E execute os comandos abaixo, mas com cuidado!
 
 emerge --ask app-shells/bash-completion
