@@ -5,6 +5,12 @@
 emerge --sync && emerge-webrsync && emerge --update --deep --with-bdeps=y --newuse @world
 ### E execute os comandos abaixo, mas com cuidado!
 
+emerge -av github-cli
+
+emerge --sync
+
+emerge -u github-cli
+
 emerge --ask app-shells/bash-completion
 
 emerge --ask dev-vcs/git
