@@ -15,7 +15,7 @@ emerge --ask app-shells/bash-completion
 
 emerge --ask dev-vcs/git
 
-gh repo clone CartySlackware/ScriptGentooLifeInstall
+gh repo clone git@github.com:backer0x01/ScriptGentooLifeInstall.git
 ou
 git clone https://github.com/CartySlackware/ScriptGentooLifeInstall.git
 # Instalação Final do Script
