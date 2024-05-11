@@ -17,7 +17,7 @@ emerge --ask dev-vcs/git
 
 gh repo clone git@github.com:backer0x01/ScriptGentooLifeInstall.git
 ou
-git clone https://github.com/CartySlackware/ScriptGentooLifeInstall.git
+git clone https://github.com/backer0x01/ScriptGentooLifeInstall.git
 # Instalação Final do Script
 ### Execute os comandos abaixo, mas com cuidado!
 cd ScriptGentooLifeInstall
